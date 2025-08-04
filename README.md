@@ -33,22 +33,22 @@ short_description: Detect and count people crossing a virtual line in CCTV
 
 ☁️ Deployable via Hugging Face Spaces using Gradio
 File Structure
-# app.py – Main Gradio application logic
+ app.py – Main Gradio application logic
 
-# requirements.txt – Required dependencies
+ requirements.txt – Required dependencies
 
-# yolov8n.pt – YOLOv8 model weights (optional if downloaded automatically)
+ yolov8n.pt – YOLOv8 model weights (optional if downloaded automatically)
 
-# Tech Stack
-# Python 3.9+
+ Tech Stack
+ Python 3.9+
 
-# OpenCV (opencv-python-headless)
+ OpenCV (opencv-python-headless)
 
-# Ultralytics YOLOv8
+ Ultralytics YOLOv8
 
-# DeepSORT Realtime
+ DeepSORT Realtime
 
-# Gradio 5.39.0
+ Gradio 5.39.0
 
 
 
